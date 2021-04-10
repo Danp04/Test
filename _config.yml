@@ -6,7 +6,7 @@ a community of practice in Poland has been formed successfully over the years an
 remote_theme: danp04/test
 aux_links: 
   "Source repository on Github":
-  - "//github.com/danp04/danp04.github.io/test
+  - "//github.com/danp04/test
 plugins:
     - jekyll-asciidoc
     - jekyll-gist
