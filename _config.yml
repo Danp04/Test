@@ -10,7 +10,7 @@ aux_links:
   "Source repository on GitHub":
     - "//github.com/danp04/danp04.github.io/Test"
 
-back_to_top: true
+back_to_top: "true"
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw).
+footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw)"
