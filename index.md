@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: <img src="{{ https://danp04.github.io/Test/images/ }}{{ build.jpg }}" />
+  image_fullwidth: <img src="{{ https://danp04.github.io/Test/images/ }}{{ header_unsplash_12.jpg }}" />
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
