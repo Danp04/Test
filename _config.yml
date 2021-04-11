@@ -3,8 +3,6 @@ title: "How to build a Community of Tech Writers in your country following the e
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: danp04/feeling-responsive
 
-color_scheme: new_color
-
 
 aux_links:
   "Source repository on GitHub":
