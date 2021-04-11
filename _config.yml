@@ -50,7 +50,7 @@ defaults:
       type: "posts"
     values:
       show_meta: true
-      sidebar: right
+      sidebar:
       comments: false
 
 disqus_shortname: feelingresponsive
