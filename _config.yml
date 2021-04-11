@@ -42,7 +42,7 @@ defaults:
       type: "pages"
     values:
       show_meta: false 
-      sidebar: right 
+      sidebar: 
       comments: false
 
   -
