@@ -53,6 +53,12 @@ defaults:
       sidebar: right
       comments: false
 
+disqus_shortname: feelingresponsive
+
+sass:
+    sass_dir : _sass
+    style    : :compressed
+
 
 back_to_top: "true"
 back_to_top_text: "Back to top"
