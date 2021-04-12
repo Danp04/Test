@@ -16,9 +16,6 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
 
-paginate: 5                     
-paginate_path: "blog/page:num"  
-
 markdown           : kramdown
 permalink          : /:categories/:title/
 highlight          : rouge
@@ -52,8 +49,6 @@ defaults:
       show_meta: true
       sidebar:
       comments: false
-
-disqus_shortname: feelingresponsive
 
 sass:
     sass_dir : _sass
