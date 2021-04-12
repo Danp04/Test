@@ -10,13 +10,22 @@ widget1:
 widget2:
   title: "Podcasts? What's the point?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: "Podcasts are a series of episodes where a podcaster shares his knowledge in specific areas of expertise, in which he is an expert. Podcasters often invite other industry experts to speak on a specific topic."
-  video: '<a href="https://open.spotify.com/show/2jhQ1Z1nAOY686RVok7O9I" data-reveal-id="videoModal" alt=""/></a>'
+  text: "Be a podcaster. Share your practice in a series of episodes."
 widget3:
-  title: "Why organizing Meet-up"
+  title: "Meet-ups"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: "Join the event, both online and in person"
+widget4:
+  title: "Soap!"
+  url: 'https://github.com/Phlow/feeling-responsive'
+  image: widget-github-303x182.jpg
+  text: "Participate as you like"
+widget5:
+  title: "Soap!"
+  url: 'https://github.com/Phlow/feeling-responsive'
+  image: widget-github-303x182.jpg
+  text: "Interested in Tech Comm certification? Demonstrate your competence and obtain recognizable credential"
 homepage: true
 ---
 
