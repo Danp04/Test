@@ -1,8 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Community Development"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/design/"
