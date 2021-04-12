@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: Theory Within
-  url: "/"
+- title: Theory Behind
+  url: "/design/grid/"
   side: left
   dropdown:
   - title: "What is a community of practice?"
