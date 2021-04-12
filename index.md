@@ -22,7 +22,7 @@ widget4:
   image: widget-github-303x182.jpg
   text: "Participate as you like"
 widget5:
-  title: "Soap!"
+  title: "ITCQF!"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: "Interested in Tech Comm certification? Demonstrate your competence and obtain recognizable credential"
