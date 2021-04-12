@@ -16,7 +16,7 @@ widget3:
   title: "Collaborate"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: "Communicate information, share experiences, organize interactions in a way that builds support."
+  text: "Share information and experience, organize interactions in a way that builds support."
 
 homepage: true
 ---
