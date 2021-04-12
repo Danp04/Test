@@ -3,20 +3,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: Techwriter.pl
+  title: Develop an **idea**
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: "Have a look at reliable Polish Tech Comm knowledge base."
+  text: "Identify a purpose and start planning."
 widget2:
-  title: "Podcasts? What's the point?"
+  title: "Connect"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
-  text: "Be a podcaster. Share your practice in a series of episodes."
+  text: "Find a way to reach out people of similar profession."
 widget3:
-  title: "ITCQF"
+  title: "Collaborate"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: "Interested in Tech Comm certification? Demonstrate your competence and obtain recognizable credential"
+  text: "Communicate information, share experiences, organize interactions in a way that builds support"
 
 homepage: true
 ---
