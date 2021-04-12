@@ -2,11 +2,15 @@
   url: "/"
   side: left
 
+- title: Theory Within
+  url: "/"
+  side: left
+
 - title: Getting Started
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Community"
   url: "/design/"
   side: left
   dropdown:
@@ -15,20 +19,12 @@
   - title: "Typography"
     url: "/design/typography/typography/"
 
-- title: "Header Styles"
+- title: "Success Factors"
   url: "/headers/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-
 
 - title: "Search"
   url: "/search/"
