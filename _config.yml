@@ -1,6 +1,6 @@
 name: danp04
-title: "How to build a Community of Tech Writers in your country following the example of Poland"
-description: An example of technical documentation hosted on Github pages, using the Feeling responsive Jekyll theme
+title: "How to Build a Community of Tech Writers in your country following the example of Poland"
+description: An example of technical documentation hosted on Github pages, using the Feeling responsive Jekyll theme.
 remote_theme: danp04/feeling-responsive
 urlimg: 'https://danp04.github.io/Test/images/'
 logo: "log.png"
@@ -57,5 +57,3 @@ sass:
 
 back_to_top: "true"
 back_to_top_text: "Back to top"
-
-footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw)"
