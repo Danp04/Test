@@ -5,19 +5,25 @@
 - title: Theory Within
   url: "/"
   side: left
+  dropdown:
+  - title: "What is a community of practice?"
+    url: "/design/grid/"
+  - title: "What type of community do I belong to, if any?"
+    url: "/design/grid/"
 
 - title: Getting Started
   url: "/getting-started/"
   side: left
 
-- title: "Community"
+- title: "Community Development"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "Tech Writers community in Poland"
     url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
+    - title: "Community rules and behavior"
+    url: "/design/grid/"
+
 
 - title: "Success Factors"
   url: "/headers/"
