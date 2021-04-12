@@ -10,8 +10,9 @@ widget1:
 widget2:
   title: "Podcasts? What's the point?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
+  image: 
   text: "Be a podcaster. Share your practice in a series of episodes."
-widget3:
+widget3: widget-1-302x182.jpg
   title: "ITCQF"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
