@@ -12,16 +12,6 @@ widget2:
   url: 'http://phlow.github.io/feeling-responsive/info/'
   text: "Be a podcaster. Share your practice in a series of episodes."
 widget3:
-  title: "Meet-ups"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: "Join the event, both online and in person"
-widget4:
-  title: "Soap!"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: "Participate as you like"
-widget5:
   title: "ITCQF"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
