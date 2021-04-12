@@ -3,7 +3,7 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: Develop an **idea**
+  title: Develop an idea
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: "Identify a purpose and start planning."
@@ -16,7 +16,7 @@ widget3:
   title: "Collaborate"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
-  text: "Communicate information, share experiences, organize interactions in a way that builds support"
+  text: "Communicate information, share experiences, organize interactions in a way that builds support."
 
 homepage: true
 ---
