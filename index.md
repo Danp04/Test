@@ -5,7 +5,7 @@ header:
 widget1:
   title: Develop an idea
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  image: widget-1a-302x182.jpg
   text: "Identify a purpose and start planning."
 widget2:
   title: "Connect"
