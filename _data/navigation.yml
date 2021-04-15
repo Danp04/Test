@@ -10,14 +10,10 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "What is a community of practice?"
-    url: "/design/start/"
-  - title: "What type of community do I belong to, if any?"
-    url: "/design/start/"
   - title: "Tech Writers community in Poland"
-    url: "/design/start/"
+    url: "/:design/:start/"
   - title: "Community rules and behavior"
-    url: "/design/start/"
+    url: "/:design/:start/"
 
 - title: "Community Development"
   url: "/design/"
