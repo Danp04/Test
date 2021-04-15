@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: Explore
 title:  "Tech Writers community in Poland"
 teaser: "In this section you will find out how it all started on a local level."
 breadcrumb: true
 categories:
-    - post
     - design
+permalink: _posts/design/start/
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
