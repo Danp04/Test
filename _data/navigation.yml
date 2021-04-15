@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Tech Writers community in Poland"
-    url: "/Explore/start/"
+    url: "/Explore/start.md/"
   - title: "Community rules and behavior"
     url: "/Explore/start/"
 
