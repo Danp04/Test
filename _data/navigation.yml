@@ -7,13 +7,13 @@
   side: left
 
 - title: Explore
-  url: "/design/"
+  url: "/Explore/"
   side: left
   dropdown:
   - title: "Tech Writers community in Poland"
-    url: "/design/start/"
+    url: "/Explore/start/"
   - title: "Community rules and behavior"
-    url: "/design/start/"
+    url: "/Explore/start/"
 
 - title: "Community Development"
   url: "/design/"
