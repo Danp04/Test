@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline:  "Multi-Device Layouts in Color"
-title:  "Grid & Colors"
-teaser: "Create powerful multi-device layouts quickly and easily with the 12-column, nest-able Foundation grid. To optimize the size of your images, you find the correct dimensions beneath."
+title:  "Tech Writers community in Poland"
+teaser: "In this section you will find out how it all started."
 breadcrumb: true
 categories:
     - design
