@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+subheadline: Explore
 title:  "Tech Writers community in Poland"
 teaser: "In this section you will find out how it all started on a local level."
 breadcrumb: true
