@@ -2,7 +2,11 @@
   url: "/"
   side: left
 
-- title: Theory Behind
+- title: Getting Started
+  url: "/getting-started/"
+  side: left
+
+- title: Explore
   url: "/design/grid/"
   side: left
   dropdown:
@@ -10,10 +14,10 @@
     url: "/design/grid/"
   - title: "What type of community do I belong to, if any?"
     url: "/design/grid/"
-
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
+  - title: "Tech Writers community in Poland"
+    url: "/design/grid/"
+  - title: "Community rules and behavior"
+    url: "/design/grid/"
 
 - title: "Community Development"
   url: "/design/"
