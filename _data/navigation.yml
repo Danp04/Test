@@ -7,7 +7,7 @@
   side: left
 
 - title: Explore
-  url: "/design/start/"
+  url: "/design/"
   side: left
   dropdown:
   - title: "What is a community of practice?"
