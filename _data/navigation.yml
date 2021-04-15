@@ -11,9 +11,9 @@
   side: left
   dropdown:
   - title: "Tech Writers community in Poland"
-    url: "/:design/:start/"
+    url: "/design/start/"
   - title: "Community rules and behavior"
-    url: "/:design/:start/"
+    url: "/design/start/"
 
 - title: "Community Development"
   url: "/design/"
