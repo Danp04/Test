@@ -5,8 +5,8 @@ title:  "Tech Writers community in Poland"
 teaser: "In this section you will find out how it all started on a local level."
 breadcrumb: true
 categories:
-    - Explore
-permalink: /Explore/start.md
+    - design
+permalink: /design/start/
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
