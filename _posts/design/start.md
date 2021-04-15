@@ -6,7 +6,7 @@ teaser: "In this section you will find out how it all started on a local level."
 breadcrumb: true
 categories:
     - design
-permalink: /design/start.md
+permalink: C:\Users\daanu\Desktop\Studia\31.01.2021\test\Test\_posts\design\start.md
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
